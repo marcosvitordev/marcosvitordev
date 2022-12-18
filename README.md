@@ -11,9 +11,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=MarcosVitor2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVitor2005&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVitor2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 💻 GitHub Repositories:
+[Projetos-HTML-CSS-e-JS](https://github.com/MarcosVitor2005/Projetos-HTML-CSS-e-JS)<br/>
+[Projetos-POO-and-PDM](https://github.com/MarcosVitor2005/Projetos-POO-and-PDM)<br/>
+[Questoes_OBI](https://github.com/MarcosVitor2005/Questoes_OBI)<br/>
+[Linguagem_C](https://github.com/MarcosVitor2005/Linguagem_C)<br/>
+[Qatar-2022-Jogo-da-Memoria](https://github.com/Solar-Software-Laboratory/Qatar-2022-Jogo-da-Memoria)<br/>
 # 💻 GitHub Projects:
-[![Projetos-HTML-CSS-e-JS]](https://github.com/MarcosVitor2005/Projetos-HTML-CSS-e-JS)
-
+[CRUD_PRINCIPAL](https://marcosvitor2005.github.io/Projetos-HTML-CSS-e-JS/CRUD_PRINCIPAL/index.html)<br/>
+[Windows 7](https://marcosvitor2005.github.io/Projetos-HTML-CSS-e-JS/Windows%207/windows%207%20(1.2)/index.html)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarcosVitor2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
