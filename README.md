@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVitor2005&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVitor2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 # 💻 GitHub Projects:
-[![Projetos-HTML-CSS-e-JS](https://www.canva.com/design/DAFVJWxIZGs/7jJaW6YYU4_QK6ylvR_y1A/view?utm_content=DAFVJWxIZGs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://facebook.com/marcosvitor)
+[![Projetos-HTML-CSS-e-JS]](https://github.com/MarcosVitor2005/Projetos-HTML-CSS-e-JS)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarcosVitor2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
