@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVitor2005&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVitor2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 # GitHub Projects:
-[![Projetos-HTML-CSS-e-JS]
+[![Projetos-HTML-CSS-e-JS](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marcosvitor)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarcosVitor2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
