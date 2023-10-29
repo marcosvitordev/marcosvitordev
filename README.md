@@ -1,5 +1,5 @@
 # 💫 About Me:
--Linguagem C<br>-JavaScript<br>-Java<br>-HTML e CSS<br>-Mysql
+Meu nome é Marcos Vitor, e como programador, estou sempre ansioso para aprender e crescer no universo do desenvolvimento. No front end, transformo pixels em experiências visuais, enquanto no back end, estou construindo meu alicerce em lógica. Estou aqui para absorver conhecimento como uma esponja de código, pronto para enfrentar desafios e contribuir com minha paixão pela programação. 
 
 
 ## 🌐 Socials:
