@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Marcos Vitor, e como programador júnior, estou sempre ansioso para aprender e crescer no universo do desenvolvimento. No front end, transformo pixels em experiências visuais, enquanto no back end, estou construindo meu alicerce em lógica e estrutura de dados. Estou aqui para absorver conhecimento como uma esponja de código, pronto para enfrentar desafios e contribuir com minha paixão pela programação.
+Meu nome é Marcos Vitor, e como programador, estou sempre ansioso para aprender e crescer no universo do desenvolvimento. No front end, transformo pixels em experiências visuais, enquanto no back end, estou construindo meu alicerce em lógica e estrutura de dados. Estou aqui para absorver conhecimento como uma esponja de código, pronto para enfrentar desafios e contribuir com minha paixão pela programação.
 
 
 ## 🌐 Socials:
