@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <div id="quote" style="text-align: center; font-style: italic; margin-top: 20px;"></div>
+
+<script>
+  const frases = [
+    "“O que me preocupa não é o grito dos maus, mas o silêncio dos bons.” – Martin Luther King Jr.",
+    "“Penso, logo existo.” – René Descartes",
+    "“Conhece-te a ti mesmo.” – Sócrates",
+    "“A vida sem reflexão não vale a pena ser vivida.” – Sócrates",
+    "“Não é o que você olha que importa, é o que você vê.” – Henry David Thoreau",
+    "“A educação é a arma mais poderosa que você pode usar para mudar o mundo.” – Nelson Mandela",
+    "“A tecnologia move o mundo.” – Steve Jobs",
+    "“Tudo que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.” – Roberto Shinyashiki"
+  ];
+
+  const quoteElement = document.getElementById('quote');
+  const randomQuote = frases[Math.floor(Math.random() * frases.length)];
+  quoteElement.innerText = randomQuote;
+</script>
+
+</body>
+</html>
