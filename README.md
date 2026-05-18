@@ -142,7 +142,7 @@ e validação online via QR Code.
 ## 🎓 Formação
 
 <p>
-🎓 ADS – IFAC (Concluído)<br>
+🎓 ADS – IFAC<br>
 🧑‍💻 Engenharia de Software – UNICESUMAR (Em andamento)<br>
 💻 Técnico em Informática – IFAC<br>
 📊 Técnico em Administração – IFAC
