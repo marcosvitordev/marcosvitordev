@@ -115,7 +115,7 @@ clínicas e profissionais, com fluxo digital seguro e dashboards inteligentes.
 
 <p>
 Sistema completo para gestão de sócios com emissão de carteirinhas<br>
-e validação online via QR Code.
+e validação online via QR Code..
 </p>
 
 <p>
