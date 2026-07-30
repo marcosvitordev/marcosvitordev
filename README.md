@@ -158,7 +158,7 @@ e validação online via QR Code..
 
 <p>
 🚀 Monitor no Espaço 4.0 (IFAC)<br>
-Arduino • Impressão 3D • Cultura Maker
+Arduino • Impressão 3D • Cultura Maker.
 </p>
 
 <p>
