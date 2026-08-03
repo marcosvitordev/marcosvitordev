@@ -194,7 +194,7 @@ Projeto de gestão com operações CRUD e banco SQLite, criado para praticar per
 
 ## Meu momento técnico
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -263,13 +263,36 @@ Projeto de gestão com operações CRUD e banco SQLite, criado para praticar per
 
 ## Formação e experiência
 
-| Área | Jornada |
-|---|---|
-| 🎓 Formação | ADS — IFAC (concluído) • Engenharia de Software — UNICESUMAR (cursando) |
-| 💻 Formação técnica | Técnico em Informática — IFAC • Técnico em Administração — IFAC |
-| 🚀 Tecnologia e educação | Monitor do Espaço 4.0 — IFAC • Arduino, robótica, impressão 3D e cultura maker |
-| 👨‍🏫 Ensino | Professor de Informática • Monitor de Lógica de Programação |
-| 🌱 Projeto aplicado | Sistema de Irrigação Automatizada • IoT e uso inteligente de recursos |
+<table align="center" width="100%">
+<thead>
+<tr>
+<th width="25%" align="center">Área</th>
+<th width="75%" align="center">Jornada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🎓 Formação</td>
+<td>ADS — IFAC (concluído) • Engenharia de Software — UNICESUMAR (cursando)</td>
+</tr>
+<tr>
+<td>💻 Formação técnica</td>
+<td>Técnico em Informática — IFAC • Técnico em Administração — IFAC</td>
+</tr>
+<tr>
+<td>🚀 Tecnologia e educação</td>
+<td>Monitor do Espaço 4.0 — IFAC • Arduino, robótica, impressão 3D e cultura maker</td>
+</tr>
+<tr>
+<td>👨‍🏫 Ensino</td>
+<td>Professor de Informática • Monitor de Lógica de Programação</td>
+</tr>
+<tr>
+<td>🌱 Projeto aplicado</td>
+<td>Sistema de Irrigação Automatizada • IoT e uso inteligente de recursos</td>
+</tr>
+</tbody>
+</table>
 
 <div align="center">
 
