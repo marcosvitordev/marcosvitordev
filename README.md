@@ -13,21 +13,21 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Full%20Stack-J%C3%BAnior%20avan%C3%A7ado-22D3EE?style=flat-square&labelColor=0F172A" alt="Nível Full Stack: Júnior avançado" />
-<img src="https://img.shields.io/badge/Evolu%C3%A7%C3%A3o-Pleno%20inicial-2DD4BF?style=flat-square&labelColor=0F172A" alt="Em evolução para Pleno inicial" />
+<img src="https://img.shields.io/badge/Desenvolvedor-Full%20Stack-22D3EE?style=flat-square&labelColor=0F172A" alt="Desenvolvedor Full Stack" />
+<img src="https://img.shields.io/badge/N%C3%ADvel-Pleno%20inicial-2DD4BF?style=flat-square&labelColor=0F172A" alt="Nível profissional: Pleno inicial" />
 <img src="https://img.shields.io/badge/Local-Sena%20Madureira%20%E2%80%A2%20AC-F59E0B?style=flat-square&labelColor=0F172A" alt="Sena Madureira, Acre" />
 
 </div>
 
 ## `> whoami`
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="60%" valign="top">
 
 ### Do problema real ao produto
 
-Sou **Analista de Sistemas**, fundador da **Axion Software** e desenvolvedor Full Stack. Transformo processos reais em produtos web completos, do levantamento da regra de negócio ao deploy e à evolução em produção.
+Sou **Analista de Sistemas**, fundador da **Axion Software** e desenvolvedor Full Stack **Pleno inicial**. Transformo processos reais em produtos web completos, do levantamento da regra de negócio ao deploy e à evolução em produção.
 
 Tenho formação em **Análise e Desenvolvimento de Sistemas**, Técnico em Informática e Técnico em Administração. Atualmente curso **Engenharia de Software** e concentro meus estudos e projetos em arquitetura de aplicações, APIs, bancos de dados, segurança e experiência do usuário.
 
@@ -48,6 +48,33 @@ Tenho formação em **Análise e Desenvolvimento de Sistemas**, Técnico em Info
 </table>
 
 > `const objetivo = "construir software útil, seguro e sustentável";`
+
+## Axion Software
+
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### 🚀 Tecnologia transformada em solução
+
+Sou fundador da **Axion Software**, empresa voltada ao desenvolvimento de sistemas web, produtos SaaS e soluções digitais personalizadas. O trabalho parte da compreensão do processo do cliente e passa por arquitetura, interface, API, banco de dados, deploy e evolução do produto.
+
+</td>
+<td width="35%" valign="top" align="center">
+
+### Soluções
+
+`SaaS` `Sistemas Web`<br>
+`APIs` `Automações`<br>
+`Deploy` `Manutenção`
+
+<br>
+
+<a href="mailto:marcosvitor.dev@gmail.com"><img src="https://img.shields.io/badge/Solicitar%20projeto-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Solicitar projeto à Axion Software" /></a>
+
+</td>
+</tr>
+</table>
 
 ## Stack de trabalho
 
@@ -74,7 +101,7 @@ Tenho formação em **Análise e Desenvolvimento de Sistemas**, Técnico em Info
 
 ## Produtos que representam minha evolução
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -90,6 +117,8 @@ Plataforma SaaS que conecta municípios, institutos e profissionais em fluxos de
 </p>
 
 `RBAC` `JWT` `PDFs` `auditoria` `migrations` `Nginx` `PM2`
+
+<p><strong>🟢 Em produção • Projeto comercial privado</strong></p>
 
 <img src="https://img.shields.io/badge/Projeto%20comercial-C%C3%B3digo%20privado-334155?style=for-the-badge&logo=github" alt="Projeto comercial com código privado" />
 
@@ -109,6 +138,8 @@ Sistema de aprazamento de medicamentos orientado pela rotina do paciente e por r
 
 `motor de regras` `sessões` `auditoria` `Vitest` `Playwright`
 
+<p><strong>🟡 Em evolução • Produto privado</strong></p>
+
 <img src="https://img.shields.io/badge/Produto%20Full%20Stack-C%C3%B3digo%20privado-334155?style=for-the-badge&logo=github" alt="Produto Full Stack com código privado" />
 
 </td>
@@ -122,6 +153,8 @@ Desafio Full Stack com Pokédex global, autenticação JWT, autorização por pr
 
 <p><strong>NestJS • Next.js • PostgreSQL • TypeORM • Tailwind CSS</strong></p>
 
+<p><strong>✅ Concluído • Código público</strong></p>
+
 <a href="https://github.com/marcosvitordev/pokemon-management-system"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Centro Pokémon" /></a>
 
 </td>
@@ -133,15 +166,46 @@ SaaS para sindicatos e associações, com cadastro de associados, emissão autom
 
 <p><strong>PHP • MySQL • JavaScript • PDF • QR Code</strong></p>
 
+<p><strong>🟢 Em produção • Projeto comercial privado</strong></p>
+
 <img src="https://img.shields.io/badge/Projeto%20comercial-C%C3%B3digo%20privado-334155?style=for-the-badge&logo=github" alt="Projeto comercial com código privado" />
 
 </td>
 </tr>
 </table>
 
+### Projetos em imagens
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://marcosvitordev.netlify.app/"><img width="100%" src="https://raw.githubusercontent.com/marcosvitordev/portifolio-react/main/src/assets/imgProjetos/projeto6.png" alt="Tela do SGMM — Sistema de Gestão Municipal de Saúde" /></a>
+<br><strong>SGMM — Gestão Municipal de Saúde</strong>
+<br><sub>🟢 Em produção • Projeto comercial privado</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://marcosvitordev.netlify.app/"><img width="100%" src="https://raw.githubusercontent.com/marcosvitordev/portifolio-react/main/src/assets/imgProjetos/projeto8.png" alt="Tela do Medication Scheduler System" /></a>
+<br><strong>Medication Scheduler System</strong>
+<br><sub>🟡 Em evolução • Produto privado</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/marcosvitordev/pokemon-management-system"><img width="100%" src="https://raw.githubusercontent.com/marcosvitordev/portifolio-react/main/src/assets/imgProjetos/projeto7.png" alt="Tela do Centro Pokémon" /></a>
+<br><strong>Centro Pokémon</strong>
+<br><sub>✅ Concluído • Código público</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://marcosvitordev.netlify.app/"><img width="100%" src="https://raw.githubusercontent.com/marcosvitordev/portifolio-react/main/src/assets/imgProjetos/projeto1.png" alt="Tela do Sistema de Sócios" /></a>
+<br><strong>Sistema de Sócios</strong>
+<br><sub>🟢 Em produção • Projeto comercial privado</sub>
+</td>
+</tr>
+</table>
+
 ### Outros repositórios em destaque
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -187,6 +251,43 @@ Projeto de gestão com operações CRUD e banco SQLite, criado para praticar per
 <p><code>Python</code> <code>SQLite</code> <code>CRUD</code> <code>GUI/CLI</code></p>
 
 <a href="https://github.com/marcosvitordev/Sistema_de_gestao_python"><strong>→ Abrir repositório</strong></a>
+
+</td>
+</tr>
+</table>
+
+## Impacto aplicado
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Processos de saúde
+
+Digitalização de solicitações, autorizações, agendamentos, atendimentos e contrarreferências entre diferentes perfis e instituições.
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Documentos e validação
+
+Geração de PDFs, carteirinhas, certificados, QR Codes e assinaturas digitais integradas aos fluxos dos sistemas.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Segurança e rastreabilidade
+
+Autenticação JWT, RBAC, auditoria, sessões controladas e proteção de documentos e dados sensíveis.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Operação e infraestrutura
+
+Deploy e manutenção em VPS Linux com Nginx, PM2, bancos relacionais, migrations, storage S3 e rotinas de backup.
 
 </td>
 </tr>
@@ -293,6 +394,19 @@ Projeto de gestão com operações CRUD e banco SQLite, criado para praticar per
 </tr>
 </tbody>
 </table>
+
+<details>
+<summary><strong>🌎 English profile</strong></summary>
+
+### Full Stack Developer — Early Mid-Level
+
+I am a Systems Analyst, founder of **Axion Software**, and a Full Stack Developer focused on SaaS products, healthcare systems, business management and automation. I build complete applications from business rules and database modeling to APIs, responsive interfaces, security and deployment.
+
+**Main stack:** TypeScript, Node.js, NestJS, Express, React, Next.js, MySQL, PostgreSQL, TypeORM and Prisma.
+
+I hold a degree in Systems Analysis and Development and I am currently pursuing a bachelor's degree in Software Engineering.
+
+</details>
 
 <div align="center">
 
