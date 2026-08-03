@@ -141,14 +141,56 @@ SaaS para sindicatos e associações, com cadastro de associados, emissão autom
 
 ### Outros repositórios em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/marcosvitordev/pokemon-management-system"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosvitordev&repo=pokemon-management-system&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=2DD4BF" alt="Centro Pokémon" /></a>
-<a href="https://github.com/marcosvitordev/sistema_certificado"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosvitordev&repo=sistema_certificado&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=2DD4BF" alt="Sistema de Certificados" /></a>
-<a href="https://github.com/marcosvitordev/portifolio-react"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosvitordev&repo=portifolio-react&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=2DD4BF" alt="Portfólio React" /></a>
-<a href="https://github.com/marcosvitordev/Sistema_de_gestao_python"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosvitordev&repo=Sistema_de_gestao_python&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=2DD4BF" alt="Sistema de Gestão em Python" /></a>
+<h3><a href="https://github.com/marcosvitordev/pokemon-management-system">🔴 Centro Pokémon</a></h3>
 
-</div>
+Aplicação Full Stack com Pokédex global, autenticação JWT, autorização por proprietário, paginação, filtros e Swagger.
+
+<p><code>NestJS</code> <code>Next.js</code> <code>PostgreSQL</code> <code>TypeORM</code></p>
+
+<a href="https://github.com/marcosvitordev/pokemon-management-system"><strong>→ Abrir repositório</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marcosvitordev/sistema_certificado">🎓 Sistema de Certificados</a></h3>
+
+Sistema para geração de certificados em PDF, QR Code de validação, autenticação e persistência de dados.
+
+<p><code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>PDF-Lib</code></p>
+
+<a href="https://github.com/marcosvitordev/sistema_certificado"><strong>→ Abrir repositório</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marcosvitordev/portifolio-react">🖥️ Portfólio React</a></h3>
+
+Portfólio responsivo com apresentação profissional, galeria de projetos e formulário de contato integrado ao EmailJS.
+
+<p><code>React 19</code> <code>JavaScript</code> <code>CSS</code> <code>EmailJS</code></p>
+
+<a href="https://marcosvitordev.netlify.app/"><strong>→ Ver projeto</strong></a> • <a href="https://github.com/marcosvitordev/portifolio-react"><strong>GitHub</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/marcosvitordev/Sistema_de_gestao_python">🐍 Sistema de Gestão em Python</a></h3>
+
+Projeto de gestão com operações CRUD e banco SQLite, criado para praticar persistência, organização modular e interfaces.
+
+<p><code>Python</code> <code>SQLite</code> <code>CRUD</code> <code>GUI/CLI</code></p>
+
+<a href="https://github.com/marcosvitordev/Sistema_de_gestao_python"><strong>→ Abrir repositório</strong></a>
+
+</td>
+</tr>
+</table>
 
 ## Meu momento técnico
 
@@ -183,14 +225,39 @@ SaaS para sindicatos e associações, com cadastro de associados, emissão autom
 
 ## GitHub em números
 
+<table>
+<tr>
+<td width="25%" align="center">
+<h2>46</h2>
+<sub>repositórios analisados</sub>
+</td>
+<td width="25%" align="center">
+<h2>34</h2>
+<sub>projetos públicos</sub>
+</td>
+<td width="25%" align="center">
+<h2>12</h2>
+<sub>projetos privados</sub>
+</td>
+<td width="25%" align="center">
+<h2>3+</h2>
+<sub>produtos Full Stack</sub>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcosvitordev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=2DD4BF&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvitordev&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas" />
+<img src="https://img.shields.io/github/followers/marcosvitordev?label=Seguidores&style=for-the-badge&color=0891B2&labelColor=0F172A&logo=github" alt="Seguidores no GitHub" />
+<img src="https://img.shields.io/github/stars/marcosvitordev?affiliations=OWNER&style=for-the-badge&color=2DD4BF&labelColor=0F172A&logo=github" alt="Estrelas nos repositórios" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosvitordev&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=2DD4BF&area=true&hide_border=true" alt="Gráfico de contribuições" />
+<br><br>
 
-<sub>As estatísticas acima consideram principalmente repositórios públicos.</sub>
+<strong>Stack predominante:</strong> TypeScript • JavaScript • Node.js • React • Next.js • SQL
+
+<br>
+
+<sub>Contagem verificada em agosto de 2026, incluindo projetos públicos e privados.</sub>
 
 </div>
 
