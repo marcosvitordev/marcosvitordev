@@ -225,7 +225,7 @@ Projeto de gestão com operações CRUD e banco SQLite, criado para praticar per
 
 ## GitHub em números
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="25%" align="center">
 <h2>46</h2>
