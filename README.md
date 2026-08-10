@@ -412,7 +412,7 @@ I hold a degree in Systems Analysis and Development and I am currently pursuing 
 
 ### Vamos construir algo útil?
 
-Estou aberto a projetos, colaborações e oportunidades em desenvolvimento de software.
+Estou aberto a projetos, colaborações e oportunidades em desenvolvimento de software..
 
 <a href="mailto:marcosvitor.dev@gmail.com"><img src="https://img.shields.io/badge/Fale%20comigo-22D3EE?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Fale comigo por e-mail" /></a>
 <a href="https://marcosvitordev.netlify.app/"><img src="https://img.shields.io/badge/Conhe%C3%A7a%20meu%20trabalho-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0F172A" alt="Conheça meu portfólio" /></a>
